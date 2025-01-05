@@ -6,7 +6,7 @@ Welcome to **Lazarev Agency's** official website project! This project is built 
 
 ## 👨‍💻 About Me
 
-I'm **Ayan Imran** – an **AI Chatbot Developer** 🤖 & **Full Stack Developer (Learner)** 💻 with a passion for creating awesome web experiences! This project marks my journey in web development and animation integration. 🌟
+I'm **Ayan Imran** – an **AI Chatbot Developer** 🤖 & **Full Stack Engineering (Learner)** 💻 with a passion for creating awesome web experiences!. 🌟
 
 ---
 
